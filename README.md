@@ -24,14 +24,20 @@ Facilitar a adoção de hábitos saudáveis através de um sistema inteligente d
 ### Tecnologias Usadas
 
 - App: Flutter
-- BackEnd/Banco de Dados: Java Spring Boot/PostgreSQL
+- BackEnd/Banco de Dados: Java / Spring Boot / PostgreSQL
+- Arquitetura: Padrão de Arquitetura em Camadas
 - CI: Github Actions
+- CRUD API RESTfull
 ---
-- Arquitetura: Padrão de arquitetura em camadas
+- Notion
 - Postman
-- Banco de Dados Local: Hive
-- Injeção de Dependência: Modular
-- Navegação9: Modular
+- Figma
+- PostgreSQL
+- Draw io
+- MindMeister
+- Git/GitHub
+- Trello
+- Clockify
 
 ### Arquitetura do Banco de Dados(Firestore)
 [<img alt="Warpnet" src="https://github.com/IagoAntunes/CartCheck/blob/main/assets/architecture_firestore.png"/>](FirestoreArchitecture)
