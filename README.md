@@ -11,7 +11,7 @@ Objetivo do Projeto:
 
 Facilitar a adoção de hábitos saudáveis através de um sistema inteligente de monitoramento e recomendações personalizadas, incentivando práticas diárias para o bem-estar geral.
 
-:large_blue_circle: [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7150418480729600000/)
+:large_blue_circle: [Linkedin Post]()
 
 ### ⚙️ Funcionalidades
 
